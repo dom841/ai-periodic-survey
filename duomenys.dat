@@ -1,0 +1,258 @@
+PCSTemplate - K1 Kontaktinis árenginys³³³³Y³³0³L³0³1³N³³³³³³³³³³1³³³³0³/  /³0
+Vietovë³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³³³³0³facility³faccity³³0³/  /³0
+Dujotiekio ruoþo Nr.³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³tpinsp.tpn010³³³0³tpinsp³tpn010³³0³/  /³0
+Mat. taðko Nr.³³³C( 22 )³N³³0³T³0³1³Y³A³³³³³³³³³0³tpinsp³tpn003³³0³/  /³0
+Gatvë³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³³³³0³facility³facstname³³0³/  /³0
+Namo Nr.³³³C( 22 )³N³³0³M³0³1³Y³A³³³³³³³³³0³tpinsp³tpn007³³0³/  /³0
+Matavimo taðko tipas³³³PVS³N³³0³M³0³1³Y³A³³³³³³tpinsp.tpn008³³³0³tpinsp³tpn008³³0³/  /³0
+Árenginio tipas³³³PVS³N³³0³M³0³1³Y³A³³³³³³tpinsp.tpn009³³³0³tpinsp³tpn009³³0³/  /³0
+Inþinierius³³³PBS³N³³0³M³0³1³Y³A³³³³³³facinsp.fintech³³³0³facinsp³fintech³³0³/  /³0
+Pastabos³³³C(250)³N³³0³M³2³1³Y³A³³³³³³³³F³0³facinsp³finremarks³³0³/  /³0
+Dujotiekio potencialas (ON) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-3.000,-0.950³ON-PS³³³Y³0³tpinsp³tpnps³³0³/  /³0
+Dujotiekio potencialas (OFF) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-1.150,-0.850³OFF-PS³³³Y³0³tpinsp³tpnirf³³0³/  /³0
+Kintama átampa (V)³³³A2³N³³0³M³0³2³Y³A³³³³0.000,10.000³AC-PS³³³Y³0³tpinsp³tpnacps³³0³/  /³0
+Platuma³³³GLAT³N³³0³T³0³3³Y³A³³³³-90.000,90.000³³³³³0³facility³faclat³³0³/  /³0
+Ilguma³³³GLONG³N³³0³T³0³3³Y³A³³³³-180.000,180.000³³³³³0³facility³faclong³³0³/  /³0
+-³³³³³³³³³³³³³³³³³³³³³³³³³³
+PCSTemplate - K6 Izoliuojanti jungtis³³³³Y³³0³L³0³1³N³³³³³³³³³³1³³³³0³/  /³0
+Vietovë³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³³³³0³facility³faccity³³0³/  /³0
+Dujotiekio ruoþo Nr.³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³tpinsp.tpn010³³³0³tpinsp³tpn010³³0³/  /³0
+Mat. taðko Nr.³³³C( 22 )³N³³0³M³0³1³Y³A³³³³³³³³³0³tpinsp³tpn003³³0³/  /³0
+Gatvë³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³³³³0³facility³facstname³³0³/  /³0
+Namo Nr.³³³C( 22 )³N³³0³M³0³1³Y³A³³³³³³³³³0³tpinsp³tpn007³³0³/  /³0
+Matavimo taðko tipas³³³PVS³N³³0³M³0³1³Y³A³³³³³³tpinsp.tpn008³³³0³tpinsp³tpn008³³0³/  /³0
+Árenginio tipas³³³PVS³N³³0³M³0³1³Y³A³³³³³³tpinsp.tpn009³³³0³tpinsp³tpn009³³0³/  /³0
+Inþinierius³³³PBS³N³³0³M³0³1³Y³A³³³³³³facinsp.fintech³³³0³facinsp³fintech³³0³/  /³0
+Pastabos³³³C(250)³N³³0³M³3³1³Y³A³³³³³³³³F³0³facinsp³finremarks³³0³/  /³0
+Dujotiekio potencialas (ON) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-3.000,-0.950³ON-PS³³³Y³0³tpinsp³tpnps³³0³/  /³0
+Dujotiekio potencialas (OFF) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-1.150,-0.850³OFF-PS³³³Y³0³tpinsp³tpnirf³³0³/  /³0
+Potencialas uþ jungties (ON) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-3.000,-0.950³ON-INSL³³³Y³0³tpinsp³tpninslps³³0³/  /³0
+Potencialas uþ jungties (OFF) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-1.150,-0.850³OFF-INSL³³³Y³0³tpinsp³tpninslir³³0³/  /³0
+Kintama uþ jungties (V)³³³A2³N³³0³M³0³2³Y³A³³³³0.000,10.000³AC-PS³³³Y³0³tpinsp³tpnacps³³0³/  /³0
+Jungties átampa (ON) (mV)³³³V2³N³³0³M³1³2³Y³A³³³³³³³³³0³tpinsp³tpn006³³0³/  /³0
+Kintama átampa (V)³³³A2³N³³0³M³0³2³Y³A³³³³0.000,10.000³AC-PS³³³Y³0³tpinsp³tpnacps³³0³/  /³0
+Jungties varþa (Om)³³³N( 7,0 )³N³³0³M³1³3³Y³A³³³³0.000,1000000000³³³³³0³tpinsp³tpn004³³0³/  /³0
+Platuma³³³GLAT³N³³0³T³0³3³Y³A³³³³-90.000,90.000³³³³³0³facility³faclat³³0³/  /³0
+Ilguma³³³GLONG³N³³0³T³0³3³Y³A³³³³-180.000,180.000³³³³³0³facility³faclong³³0³/  /³0
+-³³³³³³³³³³³³³³³³³³³³³³³³³³
+PCSTemplate - K6/2 Izoliuojanti jungtis su dëklu³³³³Y³³0³L³0³1³N³³³³³³³³³³1³³³³0³/  /³0
+Vietovë³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³³³³0³facility³faccity³³0³/  /³0
+Dujotiekio ruoþo Nr.³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³tpinsp.tpn010³³³0³tpinsp³tpn010³³0³/  /³0
+Mat. taðko Nr.³³³C( 22 )³N³³0³M³0³1³Y³A³³³³³³³³³0³tpinsp³tpn003³³0³/  /³0
+Gatvë³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³³³³0³facility³facstname³³0³/  /³0
+Namo Nr.³³³C( 22 )³N³³0³M³0³1³Y³A³³³³³³³³³0³tpinsp³tpn007³³0³/  /³0
+Matavimo taðko tipas³³³PVS³N³³0³M³0³1³Y³A³³³³³³tpinsp.tpn008³³³0³tpinsp³tpn008³³0³/  /³0
+Árenginio tipas³³³PVS³N³³0³M³0³1³Y³A³³³³³³tpinsp.tpn009³³³0³tpinsp³tpn009³³0³/  /³0
+Inþinierius³³³PBS³N³³0³M³0³1³Y³A³³³³³³facinsp.fintech³³³0³facinsp³fintech³³0³/  /³0
+Pastabos³³³C(250)³N³³0³M³2³1³Y³A³³³³³³³³F³0³facinsp³finremarks³³0³/  /³0
+Dujotiekio potencialas (ON) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-3.000,-0.950³ON-PS³³³Y³0³tpinsp³tpnps³³0³/  /³0
+Dujotiekio potencialas (OFF) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-1.150,-0.850³OFF-PS³³³Y³0³tpinsp³tpnirf³³0³/  /³0
+Potencialas uþ jungties (ON) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-3.000,-0.950³ON-INSL³³³Y³0³tpinsp³tpninslps³³0³/  /³0
+Potencialas uþ jungties (OFF) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-1.150,-0.850³OFF-INSL³³³Y³0³tpinsp³tpninslir³³0³/  /³0
+Kintama uþ jungties (V)³³³A2³N³³0³M³0³2³Y³A³³³³0.000,10.000³AC-PS³³³Y³0³tpinsp³tpnacps³³0³/  /³0
+Dëklo potencialas (ON) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-3.000,-0.950³ON-CASE³³³Y³0³tpinsp³tpncaseps³³0³/  /³0
+Dëklo potencialas (OFF) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-1.150,-0.850³OFF-CASE³³³Y³0³tpinsp³tpncaseir³³0³/  /³0
+Jungties átampa (ON) (mV)³³³V2³N³³0³M³1³2³Y³A³³³³³³³³³0³tpinsp³tpn006³³0³/  /³0
+Kintama átampa (V)³³³A2³N³³0³M³0³2³Y³A³³³³0.000,10.000³AC-PS³³³Y³0³tpinsp³tpnacps³³0³/  /³0
+Varþa (dujotiekis/dëklas) (Om)³³³N( 7,0 )³N³³0³M³1³3³Y³A³³³³³³³³³0³tpinsp³tpn005³³0³/  /³0
+Jungties varþa (Om)³³³N( 7,0 )³N³³0³M³1³3³Y³A³³³³0.000,1000000000³³³³³0³tpinsp³tpn004³³0³/  /³0
+Platuma³³³GLAT³N³³0³T³0³3³Y³A³³³³-90.000,90.000³³³³³0³facility³faclat³³0³/  /³0
+Ilguma³³³GLONG³N³³0³T³0³3³Y³A³³³³-180.000,180.000³³³³³0³facility³faclong³³0³/  /³0
+-³³³³³³³³³³³³³³³³³³³³³³³³³³
+PCSTemplate - Katodinë stotis³³³³Y³³0³L³0³1³N³³³³³³³³³³1³³³³0³/  /³0
+Katodinës stoties Nr.³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³³³³0³facility³facnr³³0³/  /³0
+Vietovë³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³³³³0³facility³faccity³³0³/  /³0
+Dujotiekio ruoþo Nr.³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³tpinsp.tpn010³³³0³tpinsp³tpn010³³0³/  /³0
+Mat. taðko Nr.³³³C( 22 )³N³³0³M³0³1³Y³A³³³³³³³³³0³tpinsp³tpn003³³0³/  /³0
+Gatvë³³³C( 22 )³Y³³0³T³0³1³Y³A³³³³³³³³³0³facility³facstname³³0³/  /³0
+Namo Nr.³³³C( 22 )³N³³0³M³0³1³Y³A³³³³³³³³³0³tpinsp³tpn007³³0³/  /³0
+Matavimo taðko tipas³³³PVS³N³³0³M³0³1³Y³A³³³³³³tpinsp.tpn008³³³0³tpinsp³tpn008³³0³/  /³0
+Árenginio tipas³³³PVS³N³³0³M³0³1³Y³A³³³³³³tpinsp.tpn009³³³0³tpinsp³tpn009³³0³/  /³0
+Inþinierius³³³PBS³N³³0³M³0³1³Y³A³³³³³³facinsp.fintech³³³0³facinsp³fintech³³0³/  /³0
+Pastabos³³³C(250)³N³³0³M³2³1³Y³A³³³³³³³³F³0³facinsp³finremarks³³0³/  /³0
+Dujotiekio potencialas (ON) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-3.000,-0.950³ON-PS³³³Y³0³tpinsp³tpnps³³0³/  /³0
+Dujotiekio potencialas (OFF) (mV)³³³V2³N³³0³M³0³2³Y³A³³³³-1.150,-0.850³OFF-PS³³³Y³0³tpinsp³tpnirf³³0³/  /³0
+Katodinës stoties ið. átampa (V)³³³V2³N³³0³M³0³2³Y³A³³³³³³³³Y³0³tpinsp³tpn014³³1³/  /³1
+Katodinës stoties ið. srovë (mA)³³³N( 7,0 )³N³³0³M³0³2³Y³A³³³³³³³³Y³0³tpinsp³tpn013³³2³/  /³2
+Kintama átampa (V)³³³A2³N³³0³M³0³2³Y³A³³³³0.000,10.000³AC-PS³³³Y³0³tpinsp³tpnacps³³0³/  /³0
+El. skaitiklis (dieninis)³³³N( 10,0 )³N³³0³M³1³3³Y³A³³³³³³³³³0³tpinsp³tpn011³³0³/  /³0
+El. skaitiklis (naktinis)³³³N( 10,0 )³N³³0³M³1³3³Y³A³³³³³³³³³0³tpinsp³tpn012³³0³/  /³0
+Platuma³³³GLAT³N³³0³T³0³3³Y³A³³³³-90.000,90.000³³³³³0³facility³faclat³³0³/  /³0
+Ilguma³³³GLONG³N³³0³T³0³3³Y³A³³³³-180.000,180.000³³³³³0³facility³faclong³³0³/  /³0
+-³³³³³³³³³³³³³³³³³³³³³³³³³³
+MT K6 176³³³³N³³0³L³0³1³N³³³³³³³³³³1³³³³0³/  /³0³³³³³³³
+Vietovë³³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³1³facility³faccity³³0³/  /³0³³³³
+Dujotiekio ruoþo Nr.³134³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³1³tpinsp³tpn010³³0³/  /³0³³³³
+Mat. taðko Nr.³176³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³1³tpinsp³tpn003³³0³/  /³0³³³³
+Gatvë³Þirmûnø g.³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³1³facility³facstname³³0³/  /³0³³³³
+Namo Nr.³48 VI³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³1³tpinsp³tpn007³³0³/  /³0³³³³
+Matavimo taðko tipas³K6³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn008³³F³1³tpinsp³tpn008³³0³/  /³0³³³³
+Árenginio tipas³M³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn009³³F³1³tpinsp³tpn009³³0³/  /³0³³³³
+Inþinierius³³Tomas Ðemeðkevièius³PBS³N³³³M³³1³³A³³³³³³facinsp.fintech³³F³1³facinsp³fintech³³0³/  /³0³³³³
+Pastabos³³³C(250)³N³³³M³2³1³³A³³³³³³³³F³1³facinsp³finremarks³³0³/  /³0³³³³
+Dujotiekio potencialas (ON) (mV)³³-1807³V2³N³³³M³³2³³A³³³³-3.000,-0.950³ON-PS³³³T³1³tpinsp³tpnps³³0³/  /³0³³³³
+Dujotiekio potencialas (OFF) (mV)³³-1026³V2³N³³³M³³2³³A³³³³-1.150,-0.850³OFF-PS³³³T³1³tpinsp³tpnirf³³0³/  /³0³³³³
+Kintama átampa (V)³³0,158³A2³N³³³M³³2³³A³³³³0,0.5³³³³T³1³tpinsp³tpnacps³³0³/  /³0³³³³
+Ilguma³³0³GLONG³N³³³T³³3³³A³³³³-180,180³³³³F³1³facility³faclong³³0³/  /³0³³³³
+Platuma³³0³GLAT³N³³³T³³3³³A³³³³-90,90³³³³F³1³facility³faclat³³0³/  /³0³³³³
+-³³³³³³³³³³³³³³³³
+MT K6 216³³³³N³³0³L³0³1³N³³³³³³³³³³2³³³³0³/  /³0³³³³³³³
+Vietovë³³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³2³facility³faccity³³0³/  /³0³³³³
+Dujotiekio ruoþo Nr.³134³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³2³tpinsp³tpn010³³0³/  /³0³³³³
+Mat. taðko Nr.³216³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³2³tpinsp³tpn003³³0³/  /³0³³³³
+Gatvë³Þirmûnø g.³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³2³facility³facstname³³0³/  /³0³³³³
+Namo Nr.³30 III³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³2³tpinsp³tpn007³³0³/  /³0³³³³
+Matavimo taðko tipas³K6³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn008³³F³2³tpinsp³tpn008³³0³/  /³0³³³³
+Árenginio tipas³M³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn009³³F³2³tpinsp³tpn009³³0³/  /³0³³³³
+Inþinierius³³Tomas Ðemeðkevièius³PBS³N³³³M³³1³³A³³³³³³facinsp.fintech³³F³2³facinsp³fintech³³0³/  /³0³³³³
+Pastabos³³³C(250)³N³³³M³2³1³³A³³³³³³³³F³2³facinsp³finremarks³³0³/  /³0³³³³
+Dujotiekio potencialas (ON) (mV)³³-1719³V2³N³³³M³³2³³A³³³³-3.000,-0.950³ON-PS³³³T³2³tpinsp³tpnps³³0³/  /³0³³³³
+Dujotiekio potencialas (OFF) (mV)³³-936³V2³N³³³M³³2³³A³³³³-1.150,-0.850³OFF-PS³³³T³2³tpinsp³tpnirf³³0³/  /³0³³³³
+Kintama átampa (V)³³0,175³A2³N³³³M³³2³³A³³³³0,0.5³³³³T³2³tpinsp³tpnacps³³0³/  /³0³³³³
+Ilguma³³0³GLONG³N³³³T³³3³³A³³³³-180,180³³³³F³2³facility³faclong³³0³/  /³0³³³³
+Platuma³³0³GLAT³N³³³T³³3³³A³³³³-90,90³³³³F³2³facility³faclat³³0³/  /³0³³³³
+-³³³³³³³³³³³³³³³³
+MT K6 219³³³³N³³0³L³0³1³N³³³³³³³³³³3³³³³0³/  /³0³³³³³³³
+Vietovë³³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³3³facility³faccity³³0³/  /³0³³³³
+Dujotiekio ruoþo Nr.³134³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³3³tpinsp³tpn010³³0³/  /³0³³³³
+Mat. taðko Nr.³219³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³3³tpinsp³tpn003³³0³/  /³0³³³³
+Gatvë³Þirmûnø g.³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³3³facility³facstname³³0³/  /³0³³³³
+Namo Nr.³30 IV³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³3³tpinsp³tpn007³³0³/  /³0³³³³
+Matavimo taðko tipas³K6³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn008³³F³3³tpinsp³tpn008³³0³/  /³0³³³³
+Árenginio tipas³M³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn009³³F³3³tpinsp³tpn009³³0³/  /³0³³³³
+Inþinierius³³Tomas Ðemeðkevièius³PBS³N³³³M³³1³³A³³³³³³facinsp.fintech³³F³3³facinsp³fintech³³0³/  /³0³³³³
+Pastabos³³³C(250)³N³³³M³2³1³³A³³³³³³³³F³3³facinsp³finremarks³³0³/  /³0³³³³
+Dujotiekio potencialas (ON) (mV)³³-1745³V2³N³³³M³³2³³A³³³³-3.000,-0.950³ON-PS³³³T³3³tpinsp³tpnps³³0³/  /³0³³³³
+Dujotiekio potencialas (OFF) (mV)³³-964³V2³N³³³M³³2³³A³³³³-1.150,-0.850³OFF-PS³³³T³3³tpinsp³tpnirf³³0³/  /³0³³³³
+Kintama átampa (V)³³0,374³A2³N³³³M³³2³³A³³³³0,0.5³³³³T³3³tpinsp³tpnacps³³0³/  /³0³³³³
+Ilguma³³0³GLONG³N³³³T³³3³³A³³³³-180,180³³³³F³3³facility³faclong³³0³/  /³0³³³³
+Platuma³³0³GLAT³N³³³T³³3³³A³³³³-90,90³³³³F³3³facility³faclat³³0³/  /³0³³³³
+-³³³³³³³³³³³³³³³³
+MT K6 223³³³³N³³0³L³0³1³N³³³³³³³³³³4³³³³0³/  /³0³³³³³³³
+Vietovë³³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³4³facility³faccity³³0³/  /³0³³³³
+Dujotiekio ruoþo Nr.³134³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³4³tpinsp³tpn010³³0³/  /³0³³³³
+Mat. taðko Nr.³223³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³4³tpinsp³tpn003³³0³/  /³0³³³³
+Gatvë³Þirmûnø g.³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³4³facility³facstname³³0³/  /³0³³³³
+Namo Nr.³30a IV³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³4³tpinsp³tpn007³³0³/  /³0³³³³
+Matavimo taðko tipas³K6³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn008³³F³4³tpinsp³tpn008³³0³/  /³0³³³³
+Árenginio tipas³M³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn009³³F³4³tpinsp³tpn009³³0³/  /³0³³³³
+Inþinierius³³Tomas Ðemeðkevièius³PBS³N³³³M³³1³³A³³³³³³facinsp.fintech³³F³4³facinsp³fintech³³0³/  /³0³³³³
+Pastabos³³³C(250)³N³³³M³2³1³³A³³³³³³³³F³4³facinsp³finremarks³³0³/  /³0³³³³
+Dujotiekio potencialas (ON) (mV)³³-1624³V2³N³³³M³³2³³A³³³³-3.000,-0.950³ON-PS³³³T³4³tpinsp³tpnps³³0³/  /³0³³³³
+Dujotiekio potencialas (OFF) (mV)³³-983³V2³N³³³M³³2³³A³³³³-1.150,-0.850³OFF-PS³³³T³4³tpinsp³tpnirf³³0³/  /³0³³³³
+Kintama átampa (V)³³0,121³A2³N³³³M³³2³³A³³³³0,0.5³³³³T³4³tpinsp³tpnacps³³0³/  /³0³³³³
+Ilguma³³0³GLONG³N³³³T³³3³³A³³³³-180,180³³³³F³4³facility³faclong³³0³/  /³0³³³³
+Platuma³³0³GLAT³N³³³T³³3³³A³³³³-90,90³³³³F³4³facility³faclat³³0³/  /³0³³³³
+-³³³³³³³³³³³³³³³³
+MT K1 225³³³³N³³0³L³0³1³N³³³³³³³³³³5³³³³0³/  /³0³³³³³³³
+Vietovë³³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³5³facility³faccity³³0³/  /³0³³³³
+Dujotiekio ruoþo Nr.³134³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³5³tpinsp³tpn010³³0³/  /³0³³³³
+Mat. taðko Nr.³225³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³5³tpinsp³tpn003³³0³/  /³0³³³³
+Gatvë³Þirmûnø g.³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³5³facility³facstname³³0³/  /³0³³³³
+Namo Nr.³40 IV³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³5³tpinsp³tpn007³³0³/  /³0³³³³
+Matavimo taðko tipas³K1³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn008³³F³5³tpinsp³tpn008³³0³/  /³0³³³³
+Árenginio tipas³M³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn009³³F³5³tpinsp³tpn009³³0³/  /³0³³³³
+Inþinierius³³Tomas Ðemeðkevièius³PBS³N³³³M³³1³³A³³³³³³facinsp.fintech³³F³5³facinsp³fintech³³0³/  /³0³³³³
+Pastabos³³³C(250)³N³³³M³2³1³³A³³³³³³³³F³5³facinsp³finremarks³³0³/  /³0³³³³
+Dujotiekio potencialas (ON) (mV)³³-1707³V2³N³³³M³³2³³A³³³³-3.000,-0.950³ON-PS³³³T³5³tpinsp³tpnps³³0³/  /³0³³³³
+Dujotiekio potencialas (OFF) (mV)³³-983³V2³N³³³M³³2³³A³³³³-1.150,-0.850³OFF-PS³³³T³5³tpinsp³tpnirf³³0³/  /³0³³³³
+Kintama átampa (V)³³0,212³A2³N³³³M³³2³³A³³³³0,0.5³³³³T³5³tpinsp³tpnacps³³0³/  /³0³³³³
+Ilguma³³0³GLONG³N³³³T³³3³³A³³³³-180,180³³³³F³5³facility³faclong³³0³/  /³0³³³³
+Platuma³³0³GLAT³N³³³T³³3³³A³³³³-90,90³³³³F³5³facility³faclat³³0³/  /³0³³³³
+-³³³³³³³³³³³³³³³³
+MT K6 235³³³³N³³0³L³0³1³N³³³³³³³³³³6³³³³0³/  /³0³³³³³³³
+Vietovë³³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³6³facility³faccity³³0³/  /³0³³³³
+Dujotiekio ruoþo Nr.³134³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³6³tpinsp³tpn010³³0³/  /³0³³³³
+Mat. taðko Nr.³235³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³6³tpinsp³tpn003³³0³/  /³0³³³³
+Gatvë³Þirmûnø g.³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³6³facility³facstname³³0³/  /³0³³³³
+Namo Nr.³IV³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³6³tpinsp³tpn007³³0³/  /³0³³³³
+Matavimo taðko tipas³K6³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn008³³F³6³tpinsp³tpn008³³0³/  /³0³³³³
+Árenginio tipas³M³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn009³³F³6³tpinsp³tpn009³³0³/  /³0³³³³
+Inþinierius³³Tomas Ðemeðkevièius³PBS³N³³³M³³1³³A³³³³³³facinsp.fintech³³F³6³facinsp³fintech³³0³/  /³0³³³³
+Pastabos³³³C(250)³N³³³M³2³1³³A³³³³³³³³F³6³facinsp³finremarks³³0³/  /³0³³³³
+Dujotiekio potencialas (ON) (mV)³³-1536³V2³N³³³M³³2³³A³³³³-3.000,-0.950³ON-PS³³³T³6³tpinsp³tpnps³³0³/  /³0³³³³
+Dujotiekio potencialas (OFF) (mV)³³-953³V2³N³³³M³³2³³A³³³³-1.150,-0.850³OFF-PS³³³T³6³tpinsp³tpnirf³³0³/  /³0³³³³
+Kintama átampa (V)³³0,132³A2³N³³³M³³2³³A³³³³0,0.5³³³³T³6³tpinsp³tpnacps³³0³/  /³0³³³³
+Ilguma³³0³GLONG³N³³³T³³3³³A³³³³-180,180³³³³F³6³facility³faclong³³0³/  /³0³³³³
+Platuma³³0³GLAT³N³³³T³³3³³A³³³³-90,90³³³³F³6³facility³faclat³³0³/  /³0³³³³
+-³³³³³³³³³³³³³³³³
+MT K6 318³³³³N³³0³L³0³1³N³³³³³³³³³³7³³³³0³/  /³0³³³³³³³
+Vietovë³³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³7³facility³faccity³³0³/  /³0³³³³
+Dujotiekio ruoþo Nr.³134³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³7³tpinsp³tpn010³³0³/  /³0³³³³
+Mat. taðko Nr.³318³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³7³tpinsp³tpn003³³0³/  /³0³³³³
+Gatvë³Tuskulënø g.³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³7³facility³facstname³³0³/  /³0³³³³
+Namo Nr.³³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³7³tpinsp³tpn007³³0³/  /³0³³³³
+Matavimo taðko tipas³K6³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn008³³F³7³tpinsp³tpn008³³0³/  /³0³³³³
+Árenginio tipas³PM³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn009³³F³7³tpinsp³tpn009³³0³/  /³0³³³³
+Inþinierius³³Tomas Ðemeðkevièius³PBS³N³³³M³³1³³A³³³³³³facinsp.fintech³³F³7³facinsp³fintech³³0³/  /³0³³³³
+Pastabos³³³C(250)³N³³³M³2³1³³A³³³³³³³³F³7³facinsp³finremarks³³0³/  /³0³³³³
+Dujotiekio potencialas (ON) (mV)³³-1697³V2³N³³³M³³2³³A³³³³-3.000,-0.950³ON-PS³³³T³7³tpinsp³tpnps³³0³/  /³0³³³³
+Dujotiekio potencialas (OFF) (mV)³³-992³V2³N³³³M³³2³³A³³³³-1.150,-0.850³OFF-PS³³³T³7³tpinsp³tpnirf³³0³/  /³0³³³³
+Kintama átampa (V)³³0,149³A2³N³³³M³³2³³A³³³³0,0.5³³³³T³7³tpinsp³tpnacps³³0³/  /³0³³³³
+Ilguma³³0³GLONG³N³³³T³³3³³A³³³³-180,180³³³³F³7³facility³faclong³³0³/  /³0³³³³
+Platuma³³0³GLAT³N³³³T³³3³³A³³³³-90,90³³³³F³7³facility³faclat³³0³/  /³0³³³³
+-³³³³³³³³³³³³³³³³
+MT K6 320³³³³N³³0³L³0³1³N³³³³³³³³³³8³³³³0³/  /³0³³³³³³³
+Vietovë³³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³8³facility³faccity³³0³/  /³0³³³³
+Dujotiekio ruoþo Nr.³134³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³8³tpinsp³tpn010³³0³/  /³0³³³³
+Mat. taðko Nr.³320³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³8³tpinsp³tpn003³³0³/  /³0³³³³
+Gatvë³Tuskulënø g.³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³8³facility³facstname³³0³/  /³0³³³³
+Namo Nr.³5 IV³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³8³tpinsp³tpn007³³0³/  /³0³³³³
+Matavimo taðko tipas³K6³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn008³³F³8³tpinsp³tpn008³³0³/  /³0³³³³
+Árenginio tipas³M³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn009³³F³8³tpinsp³tpn009³³0³/  /³0³³³³
+Inþinierius³³Tomas Ðemeðkevièius³PBS³N³³³M³³1³³A³³³³³³facinsp.fintech³³F³8³facinsp³fintech³³0³/  /³0³³³³
+Pastabos³³³C(250)³N³³³M³2³1³³A³³³³³³³³F³8³facinsp³finremarks³³0³/  /³0³³³³
+Dujotiekio potencialas (ON) (mV)³³-1541³V2³N³³³M³³2³³A³³³³-3.000,-0.950³ON-PS³³³T³8³tpinsp³tpnps³³0³/  /³0³³³³
+Dujotiekio potencialas (OFF) (mV)³³-966³V2³N³³³M³³2³³A³³³³-1.150,-0.850³OFF-PS³³³T³8³tpinsp³tpnirf³³0³/  /³0³³³³
+Kintama átampa (V)³³0,150³A2³N³³³M³³2³³A³³³³0,0.5³³³³T³8³tpinsp³tpnacps³³0³/  /³0³³³³
+Ilguma³³0³GLONG³N³³³T³³3³³A³³³³-180,180³³³³F³8³facility³faclong³³0³/  /³0³³³³
+Platuma³³0³GLAT³N³³³T³³3³³A³³³³-90,90³³³³F³8³facility³faclat³³0³/  /³0³³³³
+-³³³³³³³³³³³³³³³³
+MT K6 334³³³³N³³0³L³0³1³N³³³³³³³³³³9³³³³0³/  /³0³³³³³³³
+Vietovë³³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³9³facility³faccity³³0³/  /³0³³³³
+Dujotiekio ruoþo Nr.³134³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³9³tpinsp³tpn010³³0³/  /³0³³³³
+Mat. taðko Nr.³334³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³9³tpinsp³tpn003³³0³/  /³0³³³³
+Gatvë³Tuskulënø g.³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³9³facility³facstname³³0³/  /³0³³³³
+Namo Nr.³13 I³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³9³tpinsp³tpn007³³0³/  /³0³³³³
+Matavimo taðko tipas³K6³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn008³³F³9³tpinsp³tpn008³³0³/  /³0³³³³
+Árenginio tipas³M³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn009³³F³9³tpinsp³tpn009³³0³/  /³0³³³³
+Inþinierius³³Tomas Ðemeðkevièius³PBS³N³³³M³³1³³A³³³³³³facinsp.fintech³³F³9³facinsp³fintech³³0³/  /³0³³³³
+Pastabos³³³C(250)³N³³³M³2³1³³A³³³³³³³³F³9³facinsp³finremarks³³0³/  /³0³³³³
+Dujotiekio potencialas (ON) (mV)³³-1866³V2³N³³³M³³2³³A³³³³-3.000,-0.950³ON-PS³³³T³9³tpinsp³tpnps³³0³/  /³0³³³³
+Dujotiekio potencialas (OFF) (mV)³³-1078³V2³N³³³M³³2³³A³³³³-1.150,-0.850³OFF-PS³³³T³9³tpinsp³tpnirf³³0³/  /³0³³³³
+Kintama átampa (V)³³0,328³A2³N³³³M³³2³³A³³³³0,0.5³³³³T³9³tpinsp³tpnacps³³0³/  /³0³³³³
+Ilguma³³0³GLONG³N³³³T³³3³³A³³³³-180,180³³³³F³9³facility³faclong³³0³/  /³0³³³³
+Platuma³³0³GLAT³N³³³T³³3³³A³³³³-90,90³³³³F³9³facility³faclat³³0³/  /³0³³³³
+-³³³³³³³³³³³³³³³³
+MT K6 352³³³³N³³0³L³0³1³N³³³³³³³³³³10³³³³0³/  /³0³³³³³³³
+Vietovë³³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³10³facility³faccity³³0³/  /³0³³³³
+Dujotiekio ruoþo Nr.³134³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³10³tpinsp³tpn010³³0³/  /³0³³³³
+Mat. taðko Nr.³352³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³10³tpinsp³tpn003³³0³/  /³0³³³³
+Gatvë³Tuskulënø g.³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³10³facility³facstname³³0³/  /³0³³³³
+Namo Nr.³25 II³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³10³tpinsp³tpn007³³0³/  /³0³³³³
+Matavimo taðko tipas³K6³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn008³³F³10³tpinsp³tpn008³³0³/  /³0³³³³
+Árenginio tipas³M³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn009³³F³10³tpinsp³tpn009³³0³/  /³0³³³³
+Inþinierius³³Tomas Ðemeðkevièius³PBS³N³³³M³³1³³A³³³³³³facinsp.fintech³³F³10³facinsp³fintech³³0³/  /³0³³³³
+Pastabos³³³C(250)³N³³³M³2³1³³A³³³³³³³³F³10³facinsp³finremarks³³0³/  /³0³³³³
+Dujotiekio potencialas (ON) (mV)³³-1849³V2³N³³³M³³2³³A³³³³-3.000,-0.950³ON-PS³³³T³10³tpinsp³tpnps³³0³/  /³0³³³³
+Dujotiekio potencialas (OFF) (mV)³³-1057³V2³N³³³M³³2³³A³³³³-1.150,-0.850³OFF-PS³³³T³10³tpinsp³tpnirf³³0³/  /³0³³³³
+Kintama átampa (V)³³0,304³A2³N³³³M³³2³³A³³³³0,0.5³³³³T³10³tpinsp³tpnacps³³0³/  /³0³³³³
+Ilguma³³0³GLONG³N³³³T³³3³³A³³³³-180,180³³³³F³10³facility³faclong³³0³/  /³0³³³³
+Platuma³³0³GLAT³N³³³T³³3³³A³³³³-90,90³³³³F³10³facility³faclat³³0³/  /³0³³³³
+-³³³³³³³³³³³³³³³³
+MT K6 357³³³³N³³0³L³0³1³N³³³³³³³³³³11³³³³0³/  /³0³³³³³³³
+Vietovë³³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³11³facility³faccity³³0³/  /³0³³³³
+Dujotiekio ruoþo Nr.³134³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³11³tpinsp³tpn010³³0³/  /³0³³³³
+Mat. taðko Nr.³357³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³11³tpinsp³tpn003³³0³/  /³0³³³³
+Gatvë³Tuskulënø g.³³C( 22 )³Y³³³T³³1³³A³³³³³³³³F³11³facility³facstname³³0³/  /³0³³³³
+Namo Nr.³66³³C( 22 )³N³³³T³³1³³A³³³³³³³³F³11³tpinsp³tpn007³³0³/  /³0³³³³
+Matavimo taðko tipas³K6³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn008³³F³11³tpinsp³tpn008³³0³/  /³0³³³³
+Árenginio tipas³PM³³C( 22 )³N³³³M³³1³³A³³³³³³tpinsp.tpn009³³F³11³tpinsp³tpn009³³0³/  /³0³³³³
+Inþinierius³³Tomas Ðemeðkevièius³PBS³N³³³M³³1³³A³³³³³³facinsp.fintech³³F³11³facinsp³fintech³³0³/  /³0³³³³
+Pastabos³³³C(250)³N³³³M³2³1³³A³³³³³³³³F³11³facinsp³finremarks³³0³/  /³0³³³³
+Dujotiekio potencialas (ON) (mV)³³³V2³N³³³M³³2³³A³³³³-3.000,-0.950³ON-PS³³³T³11³tpinsp³tpnps³³0³/  /³0³³³³
+Dujotiekio potencialas (OFF) (mV)³³³V2³N³³³M³³2³³A³³³³-1.150,-0.850³OFF-PS³³³T³11³tpinsp³tpnirf³³0³/  /³0³³³³
+Kintama átampa (V)³³³A2³N³³³M³³2³³A³³³³0,0.5³³³³T³11³tpinsp³tpnacps³³0³/  /³0³³³³
+Ilguma³³0³GLONG³N³³³T³³3³³A³³³³-180,180³³³³F³11³facility³faclong³³0³/  /³0³³³³
+Platuma³³0³GLAT³N³³³T³³3³³A³³³³-90,90³³³³F³11³facility³faclat³³0³/  /³0³³³³
+-³³³³³³³³³³³³³³³³
